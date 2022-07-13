@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shonen-kele
 - 👀 I’m interested in business and programming
-- 🌱 I’m currently learning Visual Basic, html
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: kelechimba11@protonmail..com
 
 <!---
